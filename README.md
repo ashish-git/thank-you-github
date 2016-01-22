@@ -339,3 +339,4 @@ Signed,
 - Vinicius Souza ([@vsouza](https://github.com/vsouza)), Software Developer
 - Nathan Youngman ([@nathany](https://github.com/nathany)), Developer & Author
 - 陈阳 ([@matthiascy](https://github.com/matthiascy)), Game Developer
+- Ashish Sharma ([@ashish-git] (https://github.com/ashish-git)), Android Developer, Learner
